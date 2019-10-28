@@ -24,7 +24,7 @@ Recurrent and Co-attentive Information，**2018**】
 - **Xlnet** 【XLNet: Generalized Autoregressive Pretraining for Language Understanding，**2019**】
 
 ## 实验结果
-|Model|Best_epoch|Loss|Acc|Train_time|Test_size|Test_time|输入说明|论文地址|年份|  
+|Model|Loss|Acc|Train_time|Test_size|Test_time|Best_epoch|输入说明|论文地址|年份|  
 |-|-|-|-|-|-|-|-|-|-|  
-|DSSM|15|0.6441|0.6341|1877.23s|10000|1.524s|字向量|[DSSM](https://posenhuang.github.io/papers/cikm2013_DSSM_fullversion.pdf)|2013|    
-|ConvNet|6|0.6702|0.6945|210.760s|10000|0.355s|字向量|[ConvNet](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.723.6492&rep=rep1&type=pdf)|2015|
+|DSSM|0.6441|0.6341|1877.23s|10000|1.524s|15|字向量|[DSSM](https://posenhuang.github.io/papers/cikm2013_DSSM_fullversion.pdf)|2013|    
+|ConvNet|0.6702|0.6945|210.760s|10000|0.355s|6|字向量|[ConvNet](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.723.6492&rep=rep1&type=pdf)|2015|
