@@ -32,4 +32,5 @@ Recurrent and Co-attentive Information，**2018**】
 |DSSM|0.6441|**0.6341**|1877.230 s|10000|1.524 s|15|字向量|[DSSM](https://posenhuang.github.io/papers/cikm2013_DSSM_fullversion.pdf)|2013|    
 |ConvNet|0.6702|**0.6945**|210.760 s|10000|0.355 s|6|字向量|[ConvNet](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.723.6492&rep=rep1&type=pdf)|2015|
 |ABCNN|0.6153|**0.75**|2872.306 s|10000|2.203 s|29|字向量|[ABCNN](https://arxiv.org/pdf/1512.05193.pdf)|2017|
+|ESIM|0.5545|**0.755**|35399.251 s|10000|5.552 s|41|字向量|[ESIM](https://arxiv.org/pdf/1609.06038.pdf)|2017|
 
