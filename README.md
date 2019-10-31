@@ -34,5 +34,5 @@ Recurrent and Co-attentive Information，**2018**】
 |ConvNet|0.6702|**0.6945**|210.760 s|10000|0.355 s|6|字向量|[ConvNet](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.723.6492&rep=rep1&type=pdf)|2015|
 |ABCNN|0.6153|**0.75**|2872.306 s|10000|2.203 s|29|字向量|[ABCNN](https://arxiv.org/pdf/1512.05193.pdf)|2017|
 |ESIM|0.5545|**0.755**|35399.251 s|10000|5.552 s|41|字向量|[ESIM](https://arxiv.org/pdf/1609.06038.pdf)|2017|
-|ESIM|0.5592|**0.738**|35489.816 s|10000|6.552 s|41|字向量+Attention_Mask|[ESIM](https://arxiv.org/pdf/1609.06038.pdf)|2017|
+|ESIM|0.5592|**0.738**|35489.816 s|10000|6.552 s|18|字向量+Attention_Mask|[ESIM](https://arxiv.org/pdf/1609.06038.pdf)|2017|
 |MAN|-|-|-|-|-|-|-|[MAN](http://delivery.acm.org/10.1145/3220000/3210009/p325-tran.pdf?ip=202.115.52.109&id=3210009&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E384BFA948992204F%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1572317138_05182aabf32fd701d6c3fa249583e750)|2018|  
