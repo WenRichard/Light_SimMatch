@@ -15,7 +15,7 @@ Text Sequences，**2017**】
 - **ESIM** 【Enhanced LSTM for Natural Language Inference，**2017**】
 - **BiMPM** 【Bilateral Multi-Perspective
 Matching for Natural Language Sentences，**2017**】
-- **TfCNN** 【Modelling Domain Relationships for Transfer Learning on Retrieval-based Question Answering Systems，**2017**】
+- **HCNN** 【Modelling Domain Relationships for Transfer Learning on Retrieval-based Question Answering Systems，**2017**】
 - **HyperQA** 【Hyperbolic Representation Learning for Fast and Efficient Neural Question Answering，**2018**】
 - **MAN** 【Multihop Attention Networks for QA Matching，**2018**】
 - **DIIN** 【Natural Language Inference Over
@@ -26,6 +26,7 @@ Recurrent and Co-attentive Information，**2018**】
 - **Bert** 【BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding，**2018**】
 - **Xlnet** 【XLNet: Generalized Autoregressive Pretraining for Language Understanding，**2019**】
 - **RE2** 【Simple and Effective Text Matching with Richer Alignment Features，**2019**】
+- **ERCNN** 【Enhanced Recurrent Convolutional Neural Networks for Learning Sentence Similarity，**2019**】
 
 ## 实验结果
 |Model|Loss|Acc|Train_time|Test_size|Test_time|Best_epoch|输入说明|论文地址|年份|  
@@ -36,4 +37,4 @@ Recurrent and Co-attentive Information，**2018**】
 |ESIM|0.5545|**0.755**|35399.251 s|10000|5.552 s|41|字向量|[ESIM](https://arxiv.org/pdf/1609.06038.pdf)|2017|
 |ESIM|0.5592|**0.738**|35489.816 s|10000|6.552 s|18|字向量+Attention_Mask|[ESIM](https://arxiv.org/pdf/1609.06038.pdf)|2017|
 |MAN|-|-|-|-|-|-|-|[MAN](http://delivery.acm.org/10.1145/3220000/3210009/p325-tran.pdf?ip=202.115.52.109&id=3210009&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E384BFA948992204F%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1572317138_05182aabf32fd701d6c3fa249583e750)|2018|  
-|bimpm|0.4783|**0.761**|320535.6 s|10000|57.67 s|44|字向量+静态词向量|[BiMPM](https://arxiv.org/pdf/1702.03814.pdf)|2017|
+|Bimpm|0.4783|**0.761**|320535.6 s|10000|57.67 s|44|字向量+静态词向量|[BiMPM](https://arxiv.org/pdf/1702.03814.pdf)|2017|
