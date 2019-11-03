@@ -39,4 +39,4 @@ Recurrent and Co-attentive Information，**2018**】
 |MAN|-|-|-|-|-|-|-|[MAN](http://delivery.acm.org/10.1145/3220000/3210009/p325-tran.pdf?ip=202.115.52.109&id=3210009&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E384BFA948992204F%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1572317138_05182aabf32fd701d6c3fa249583e750)|2018|  
 |BiMPM|0.4783|**0.761**|320535.6 s|10000|57.67 s|44|字向量+静态词向量|[BiMPM](https://arxiv.org/pdf/1702.03814.pdf)|2017|
 |HCNN|0.6196|**0.726**|2843.951 s|10000|6.849 s|35|字向量+动态词向量|[HCNN](https://arxiv.org/pdf/1711.08726.pdf)|2017|
-|DIIN|0.4869|**0.782**||10000||14|字向量+动态词向量|[DIIN](https://arxiv.org/pdf/1709.04348.pdf)|2018|
+|DIIN|0.4869|**0.782**||10000|220.748 s|14|字向量+动态词向量|[DIIN](https://arxiv.org/pdf/1709.04348.pdf)|2018|
