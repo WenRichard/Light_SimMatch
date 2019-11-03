@@ -22,7 +22,7 @@ Matching for Natural Language Sentences，**2017**】
 Interaction Space，**2018**】
 - **DRCN** 【Semantic Sentence Matching with Densely-connected
 Recurrent and Co-attentive Information，**2018**】
-- **Transformer** 【Attention Is All You Need，**2018**】
+- **TF** 【Attention Is All You Need，**2018**】
 - **Bert** 【BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding，**2018**】
 - **Xlnet** 【XLNet: Generalized Autoregressive Pretraining for Language Understanding，**2019**】
 - **RE2** 【Simple and Effective Text Matching with Richer Alignment Features，**2019**】
@@ -40,3 +40,4 @@ Recurrent and Co-attentive Information，**2018**】
 |BiMPM|0.4783|**0.761**|320535.6 s|10000|57.67 s|44|字向量+静态词向量|[BiMPM](https://arxiv.org/pdf/1702.03814.pdf)|2017|
 |HCNN|0.6196|**0.726**|2843.951 s|10000|6.849 s|35|字向量+动态词向量|[HCNN](https://arxiv.org/pdf/1711.08726.pdf)|2017|
 |DIIN|0.4869|**0.782**||10000|220.748 s|14|字向量+动态词向量|[DIIN](https://arxiv.org/pdf/1709.04348.pdf)|2018|
+|TF|0.6537|**0.699**|2630.853 s|10000|7.384 s|44|动态词向量+位置向量|[TF](https://arxiv.org/pdf/1706.03762.pdf)|2018|
