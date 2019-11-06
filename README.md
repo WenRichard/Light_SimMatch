@@ -27,6 +27,7 @@ Recurrent and Co-attentive Information，**2018**】
 - **Xlnet** 【XLNet: Generalized Autoregressive Pretraining for Language Understanding，**2019**】
 - **RE2** 【Simple and Effective Text Matching with Richer Alignment Features，**2019**】
 - **ERCNN** 【Enhanced Recurrent Convolutional Neural Networks for Learning Sentence Similarity，**2019**】
+- **GTF** 【Gaussian Transformer: A Lightweight Approach for Natural Language Inference，**2019**】
 
 ## 实验结果
 |Model|Loss|Acc|Train_time|Test_size|Test_time|Best_epoch|输入说明|论文地址|年份|  
