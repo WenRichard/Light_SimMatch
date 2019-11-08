@@ -28,6 +28,12 @@ Recurrent and Co-attentive Information，**2018**】
 - **RE2** 【Simple and Effective Text Matching with Richer Alignment Features，**2019**】
 - **ERCNN** 【Enhanced Recurrent Convolutional Neural Networks for Learning Sentence Similarity，**2019**】
 - **GTF** 【Gaussian Transformer: A Lightweight Approach for Natural Language Inference，**2019**】
+- **MVMT** 【Many vs. Many Query Matching with Hierarchical BERT and Transformer，**2019**】
+- **HAS** 【Hashing based Answer Selection，**2019**】
+- **GGSA** 【Gated Group Self-Atention for Answer Selection，**2019**】
+- **Comp-Clip-LM** 【A Compare-Aggregate Model with Latent Clustering for Answer Selection，**2019**】
+- **BERT+GSAMN** 【A Gated Self-attention Memory Network for Answer Selection，**2019**】
+
 
 ## 实验结果
 |Model|Loss|Acc|Train_time|Test_size|Test_time|Best_epoch|输入说明|论文地址|年份|  
