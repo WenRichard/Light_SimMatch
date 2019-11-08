@@ -26,13 +26,13 @@ Recurrent and Co-attentive Information，**2018**】
 - **Bert** 【BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding，**2018**】
 - **Xlnet** 【XLNet: Generalized Autoregressive Pretraining for Language Understanding，**2019**】
 - **RE2** 【Simple and Effective Text Matching with Richer Alignment Features，**2019**】
-- **ERCNN** 【Enhanced Recurrent Convolutional Neural Networks for Learning Sentence Similarity，**2019**】
+- **ERCNN** 【Enhanced Recurrent Convolutional Neural Networks for Learning Sentence Similarity，**CCL 2019**】
 - **GTF** 【Gaussian Transformer: A Lightweight Approach for Natural Language Inference，**2019**】
-- **MVMT** 【Many vs. Many Query Matching with Hierarchical BERT and Transformer，**2019**】
+- **MVMT** 【Many vs. Many Query Matching with Hierarchical BERT and Transformer，**NLPCC 2019**】
 - **HAS** 【Hashing based Answer Selection，**2019**】
 - **GGSA** 【Gated Group Self-Atention for Answer Selection，**2019**】
 - **Comp-Clip-LM** 【A Compare-Aggregate Model with Latent Clustering for Answer Selection，**2019**】
-- **BERT+GSAMN** 【A Gated Self-attention Memory Network for Answer Selection，**EMNLP2019**,**STA**】
+- **BERT+GSAMN** 【A Gated Self-attention Memory Network for Answer Selection，**EMNLP 2019**, **STA**】
 
 
 ## 实验结果
