@@ -31,7 +31,7 @@ Recurrent and Co-attentive Information，**2018**】
 - **MVMT** 【Many vs. Many Query Matching with Hierarchical BERT and Transformer，**NLPCC 2019**】
 - **HAS** 【Hashing based Answer Selection，**2019**】
 - **GGSA** 【Gated Group Self-Atention for Answer Selection，**2019**】
-- **Comp-Clip-LM** 【A Compare-Aggregate Model with Latent Clustering for Answer Selection，**2019**】
+- **Comp-Clip-LM** 【A Compare-Aggregate Model with Latent Clustering for Answer Selection，**CIKM 2019**】
 - **BERT+GSAMN** 【A Gated Self-attention Memory Network for Answer Selection，**EMNLP 2019**, **STA**】
 
 
